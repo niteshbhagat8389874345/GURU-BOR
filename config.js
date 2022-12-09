@@ -3,13 +3,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['917605902011', 'GURU', true],
+  ['916294337316', 'NIGHT', true],
   [''], 
   [''] 
 ] //Numeros de owner 
 
-global.mods = ['917605902011'] 
-global.prems = ['917605902011', '923258787253', '919398758484']
+global.mods = ['917908632051'] 
+global.prems = ['917908632051', '917908632051', '917908632051']
 global.APIs = { // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
@@ -25,8 +25,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.packname = 'NIGHT🌙' 
+global.author = '@NIGHT🌙' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/FYvu6iqA7UA3sGePjPK636'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
