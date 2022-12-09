@@ -4,19 +4,19 @@ let handler = async m => m.reply(`
 
 ─────────────
 ▢ Group 1
-https://chat.whatsapp.com/FYvu6iqA7UA3sGePjPK636
+https://chat.whatsapp.com/KDgvAsfZ3tN9czm9uUrPpE
 
 ▢ Group 2
-https://chat.whatsapp.com/EdpAQTof9BW8Mn4CnBFhWY
+https://chat.whatsapp.com/ICFZj6RgjYDEURLht1Y5Gy
 
 ▢ Group 3
-https://chat.whatsapp.com/I1eAuFDBp6a1568QD0CeCk
+https://chat.whatsapp.com/GXU789ZSALAIasbhyq5bQg
 
 ─────────────
 ≡ Disabled links? enter here! 
 
 ▢ Group WhatsApp 
- https://chat.whatsapp.com/FYvu6iqA7UA3sGePjPK636
+ https://chat.whatsapp.com/KDgvAsfZ3tN9czm9uUrPpE
 ─────────────
 ▢ *Owner Telegram*
  https://t.me/i_want_to_be_isekaied
