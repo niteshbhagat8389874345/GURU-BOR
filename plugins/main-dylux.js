@@ -1,6 +1,6 @@
 let handler = async m => m.reply(`
 
-≡  *GURU  ┃ ᴮᴼᵀ*   GRUPOS
+≡  *komi  ┃ ᴮᴼᵀ*   GRUPOS
 
 ─────────────
 ▢ Group 1
