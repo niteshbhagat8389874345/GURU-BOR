@@ -36,9 +36,9 @@ const defaultMenu = {
 📈 Active since : %muptime
 ─────────────
 ▢ Creater bot 
-• https://www.youtube.com/@Asliguru
+• https://chat.whatsapp.com/CX9XKj3hrze6sFcY6Yalj0
 ▢ creater group
-• https://chat.whatsapp.com/KDgvAsfZ3tN9czm9uUrPpE
+• https://chat.whatsapp.com/BYvsMPfQpd5Ed7TkStNNPA
 ─────────────
 %readmore
 Ⓟ = Premium
