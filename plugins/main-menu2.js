@@ -18,7 +18,7 @@ send me by t.me/i_want_to_be_isekaied *audio + command* with which you will resp
 `
 //const pp = await (await fetch('https://i.ibb.co/qMG1JPY/fg.jpg')).buffer()
     let pp = './src/fg_logo.jpg' 
-    conn.sendButton(m.chat, m2, '▢ komi  ┃ ᴮᴼᵀ\n▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n', pp, [
+    conn.sendButton(m.chat, m2, '▢ komi  ┃ ᴮᴼᵀ https://chat.whatsapp.com/CX9XKj3hrze6sFcY6Yalj0', pp, [
       ['⏍ Info', `${usedPrefix}botinfo`],
       ['⌬ Groups', `${usedPrefix}gpdylux`]
     ],m, rpyt)
