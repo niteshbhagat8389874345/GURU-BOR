@@ -27,12 +27,12 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.packname = 'NIGHT🌙' 
 global.author = '@NIGHT🌙' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/ICFZj6RgjYDEURLht1Y5Gy'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.igfg = 'https://chat.whatsapp.com/BYvsMPfQpd5Ed7TkStNNPA' 
+global.dygp = 'https://chat.whatsapp.com/BYvsMPfQpd5Ed7TkStNNPA'
+global.fgsc = 'https://chat.whatsapp.com/BYvsMPfQpd5Ed7TkStNNPA' 
+global.fgyt = 'https://chat.whatsapp.com/BYvsMPfQpd5Ed7TkStNNPA'
+global.fgpyp = 'https://chat.whatsapp.com/BYvsMPfQpd5Ed7TkStNNPA'
+global.fglog = 'https://chat.whatsapp.com/BYvsMPfQpd5Ed7TkStNNPA' 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
